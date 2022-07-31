@@ -17,6 +17,8 @@ Foi gerado o projeto React usando o template typescript
 - Configurar o absolute imports
 - Utilizar ícones
 - Criar variáveis css
+- Buscar com expressão regular
+- Tipar o useState
     
 
 ## Stack utilizada
